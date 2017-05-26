@@ -183,3 +183,7 @@
 [url "git://gist.github.com/"]
 
 	insteadOf = "gist:"
+
+[user]
+	name = Christian Weiss
+	email = christian.weiss1@gmail.com
